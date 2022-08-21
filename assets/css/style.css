@@ -1049,3 +1049,9 @@ crediti
 .credits a:hover {
   color: #fff;
 }
+
+@media only screen and (max-width:768px){
+   .navbar-mobile ul li:nth-of-type(5){
+    display: none;
+   }
+ }
