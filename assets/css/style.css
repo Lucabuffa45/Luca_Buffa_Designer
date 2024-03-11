@@ -22,7 +22,7 @@ body::before {
 @media (min-width: 1024px) {
   body::before {
     background-attachment: fixed;
-    background: rgba(0, 0, 0, 0.6);
+    background-color: rgba(0, 0, 0, 0.6);
     z-index: -1;
   }
 }
