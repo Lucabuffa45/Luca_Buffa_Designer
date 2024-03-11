@@ -915,13 +915,13 @@ section .container {
   display: flex;
 }
 .contact .info-box .social-links a {
-  font-size: 1.6rem;
+  font-size: 18px;
   display: inline-block;
   color: #fff;
   line-height: 1;
   margin-right: 12px;
   transition: 0.3s;
-  padding: 1.6rem;
+  padding: 6px 9px;
 }
 .contact .info-box .social-links a:hover {
   color:  #ffbf00;
