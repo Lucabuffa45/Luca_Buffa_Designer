@@ -907,21 +907,21 @@ section .container {
 .contact .info-box p {
   padding: 0;
   color: #fff;
-  line-height: 24px;
-  font-size: 14px;
-  margin: 0 0 0 68px;
+  font-size: 1.4rem;
+  margin: 0 0 0 6rem;
 }
 .contact .info-box .social-links {
   margin: 5px 0 0 68px;
   display: flex;
 }
 .contact .info-box .social-links a {
-  font-size: 18px;
+  font-size: 1.6rem;
   display: inline-block;
   color: #fff;
   line-height: 1;
   margin-right: 12px;
   transition: 0.3s;
+  padding: 1.6rem;
 }
 .contact .info-box .social-links a:hover {
   color:  #ffbf00;
