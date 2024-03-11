@@ -793,7 +793,7 @@ section .container {
 }
 .portfolio .portfolio-wrap .portfolio-links a {
   color: #fff;
-  margin: 0 2px;
+  margin: 0.6rem;
   font-size: 2rem;
   display: inline-block;
   transition: 0.3s;
