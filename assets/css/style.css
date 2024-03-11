@@ -907,8 +907,8 @@ section .container {
 .contact .info-box p {
   padding: 0;
   color: #fff;
-  font-size: 1.4rem;
-  margin: 0 0 0 6rem;
+  font-size: 18px;
+  margin: 0 0 0 24px;
 }
 .contact .info-box .social-links {
   margin: 5px 0 0 68px;
