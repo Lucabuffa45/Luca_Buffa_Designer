@@ -12,7 +12,7 @@ body::before {
   content: "";
   position: fixed;
   background: #000000 url("../img/BG.gif") top right no-repeat;
-  filter: brightness(50%);
+  filter: brightness(30%);
   background-size: cover;
   left: 0;
   right: 0;
