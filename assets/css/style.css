@@ -594,6 +594,7 @@ section .container {
   display: inline-block;
   font-weight: 600;
   margin-bottom: 10px;
+  border-radius: 5px;
 }
 .resume .resume-item ul {
   padding-left: 20px;
@@ -893,6 +894,7 @@ section .container {
   padding: 20px;
   width: 100%;
   background: rgba(255, 255, 255, 0.08);
+  border-radius: 20px;
 }
 .contact .info-box i.bx {
   font-size: 24px;
